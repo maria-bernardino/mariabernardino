@@ -1,4 +1,4 @@
-## Ola! Eu sou a Maria bernardino 😍
+## Ola! Eu sou a Maria Bernardino 😍
 
 -💼 Sou fullstak
 -📘 Estudo desenvolvimento web
