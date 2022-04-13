@@ -1,7 +1,6 @@
 ## Ola! Eu sou a Maria Bernardino 😍
 
--💼 Sou fullstak
--📘 Estudo desenvolvimento web
+-💼 Sou desenvolvedora fullstak
 -💞 Apaixonada pela stak de Back-end
 
 <div align="center">
