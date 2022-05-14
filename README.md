@@ -1,7 +1,7 @@
 ## Ola! Eu sou a Maria Bernardino 😍
 
--💼 Sou desenvolvedora fullstak
--💞 Apaixonada pela stak de Back-end
+### 💼 Sou desenvolvedora fullstack
+💞 Apaixonada pela stack de Back-end
 
 <div align="center">
   <a href="https://github.com/maria-bernardino">
